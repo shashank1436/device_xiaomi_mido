@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/stag_mido.mk
+    $(LOCAL_DIR)/fluid_mido.mk
 
 COMMON_LUNCH_CHOICES := \
-    stag_mido-user \
-    stag_mido-userdebug \
-    stag_mido-eng
+    fluid_mido-user \
+    fluid_mido-userdebug \
+    fluid_mido-eng
